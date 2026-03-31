@@ -19,7 +19,8 @@ The project is implemented using **Object-Oriented Programming (OOP)**, with a p
 
 ## Installation
 1. Clone the repository:
-   - Run in the terminal: 
+   - Run in the terminal:
+        - git clone https://github.com/Yardielom/Mini-Data-analytics-with-JSONPlaceholder.git
 2. Install dependencies:
    - Run in the terminal:
       -  pip install -r requirements.txt
