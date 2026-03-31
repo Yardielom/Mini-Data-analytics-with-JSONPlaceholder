@@ -34,3 +34,10 @@ ChatGPT was used to:
 - Debug issues and fix errors in the code
 - Improve code readability and maintainability
 - Help write documentation and explain the project structure
+## Jupyter Notebook Version
+
+## Jupiter Notebook
+Before creating the final OOP based version in PyCharm, I developed this project in a Jupyter Notebook. 
+The notebook contains the step by step workflow, data exploration, metric calculations, and visualizations.
+It shows how my project went from the notebook to the final structured implementation.
+You can open and run it in Jupyter Lab/Notebook to see how the project evolved.
